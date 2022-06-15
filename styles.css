@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+body {
+    font-size: 30px;
+    font-family: "Nanum Pen Script";
+    color:greenyellow;
+}
+
+.navbar-brand {
+    font-size: 45px;
+    color: greenyellow;
+}
+
+.nav-link {
+    color: greenyellow;
+}
+
+.dropdown-item {
+    font-size: 25px;
+    color: rgb(106, 156, 30);
+}
